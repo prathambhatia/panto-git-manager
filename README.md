@@ -6,7 +6,8 @@ This monorepo contains a minimal full-stack implementation for the Git managemen
  Frontend: Next.js (simple UI)
 
  Screenshots:
- <img width="1059" height="537" alt="image" src="https://github.com/user-attachments/assets/c643f4a8-d265-4391-90f9-877d72e551fb" />
+<img width="974" height="539" alt="image" src="https://github.com/user-attachments/assets/66b003ea-bc70-41c3-89ad-3a5f16e52465" />
+
 
 
 <img width="710" height="711" alt="image" src="https://github.com/user-attachments/assets/a76463d9-14f7-41a1-aedb-e8255f8404b6" />
