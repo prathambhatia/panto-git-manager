@@ -5,4 +5,7 @@ This monorepo contains a minimal full-stack implementation for the Git managemen
 - Backend: Node + Express + Passport (GitHub & GitLab) + Prisma (Postgre for demo)
 - Frontend: Next.js (simple UI)
 
-<!-- Minor change for PR trigger -->
+SIMPLE CHANGE FOR PR REQUEST
+SIMPLE CHANGE FOR PR REQUEST
+SIMPLE CHANGE FOR PR REQUEST
+SIMPLE CHANGE FOR PR REQUEST
