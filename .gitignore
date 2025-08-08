@@ -1,0 +1,46 @@
+# Node
+node_modules/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Prisma
+backend/prisma/dev.db
+backend/prisma/migrations/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker/*.env
+docker/data/
+**/Dockerfile
+docker-compose.override.yml
+
+# Build files (Next.js or other)
+frontend/.next/
+frontend/out/
+frontend/.turbo/
+frontend/.vercel/
+
+# Cache
+.cache/
+.next/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Others (if applicable)
+coverage/
+*.sqlite
